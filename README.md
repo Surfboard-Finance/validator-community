@@ -1,5 +1,5 @@
 # ![SurfBoard Logo](https://www.surfboard.finance/assets/images/home/icon_logo.png) SurfBoard validator-community
-This is the validator source code Surfboard-Finance chain $BOARD surfboard
+This is the validator source code Surfboard-Finance chain $BOARD 
 **surfboard** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
 
 ## Get started
